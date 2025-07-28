@@ -1,5 +1,5 @@
 import React from "react";
-import VotingApp from "./VotingApp"; 
+import VotingApp from "./VoteApp/VotingApp"; 
 
 function App() {
   return <VotingApp />;
